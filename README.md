@@ -27,6 +27,6 @@ I am a first-year Computer Science student currently focused on mastering Data S
 
 ### 📫 Let's Connect!
 - **LinkedIn:** https://www.linkedin.com/in/yashgore-in/
-- **Portfolio:** Coming Soon
+- **Portfolio:** (https://12345678-byte.github.io/)
 
 *"The best way to predict the future is to invent it."*
