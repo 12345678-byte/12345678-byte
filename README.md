@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Yash Gore
 
-<!--
-**12345678-byte/12345678-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 CS Undergrad | Aspiring AI & Systems Engineer
+I am a first-year Computer Science student currently focused on mastering Data Structures and Algorithms while building impactful projects in Python and C++. My long-term goal is to pursue a Master's in Computer Science at a global top 100 university.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+- **Languages:** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- **Currently Learning:** Data Structures & Algorithms (DSA), Backend Development with FastAPI.
+
+---
+
+### 📊 Proof of Work
+- 🔭 **Working on:** A Personal Finance Tracker using Python.
+- 🌱 **Daily Habit:** Solving 1 LeetCode problem every day to sharpen my logic.
+- 📜 **Certifications:** 
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=12345678-byte&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=12345678-byte&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** https://www.linkedin.com/in/yashgore-in/
+- **Portfolio:** Coming Soon
+
+*"The best way to predict the future is to invent it."*
